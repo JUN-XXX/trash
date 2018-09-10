@@ -27,6 +27,3 @@ for tweet in public_tweets:
             j = j+1
     except:
         print('No Image')
-
-#searched = api.saved_searches()
-#for data in 
